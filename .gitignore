@@ -1,1 +1,19 @@
+# Virtual Environment
+venv/
+
+# Environment Variables
 .env
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# ChromaDB
+chroma_db/
+
+# Streamlit Cache
+.streamlit/
+
+# OS Files
+.DS_Store
+Thumbs.db
